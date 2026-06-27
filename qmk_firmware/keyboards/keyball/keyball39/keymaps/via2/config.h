@@ -35,7 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAP_CODE_DELAY 5
 #define OLED_TIMEOUT 300000 // ミリ秒
-#define KEYBALL_CPI_DEFAULT 500 // マウス速度 (default: 500)
+#define KEYBALL_CPI_DEFAULT 600 // マウス速度 (default: 500)
 #define KEYBALL_SCROLL_DIV_DEFAULT 4 // スクロール速度 (default: 4)
 
 #define LAYER_LED_ENABLE
