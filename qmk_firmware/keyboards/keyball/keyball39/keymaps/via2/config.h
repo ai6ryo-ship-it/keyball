@@ -34,6 +34,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 #define TAP_CODE_DELAY 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 7
 #define OLED_TIMEOUT 300000 // ミリ秒
 #define KEYBALL_CPI_DEFAULT 600 // マウス速度 (default: 500)
 #define KEYBALL_SCROLL_DIV_DEFAULT 4 // スクロール速度 (default: 4)
